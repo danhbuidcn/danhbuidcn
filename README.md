@@ -20,9 +20,9 @@ Tôi có kinh nghiệm làm việc với các công nghệ như:
 
 Dưới đây là một số dự án nổi bật mà tôi đã thực hiện và đang phát triển:
 
-- [Dự Án 1]: Mô tả ngắn về dự án và mục tiêu chính.
-- [Dự Án 2]: Mô tả ngắn về dự án và mục tiêu chính.
-- [Dự Án 3]: Mô tả ngắn về dự án và mục tiêu chính.
+- [Daikoku]: Một dự án quản lý nhà thầu Nhật Bản.
+- [Dr.Trust]: Dự án health care với mục đích quản lý sức khỏe của nhân viên.
+- [DevOps]: Tổng hợp các kiến thức cơ bản về devops.
 
 ## 📝 Blog và Tài Liệu
 
@@ -31,7 +31,7 @@ Tôi thường chia sẻ kiến thức và trải nghiệm của mình trong l�
 ## 📫 Liên Hệ
 
 - Email: [danhbuidcn@gmail.com](mailto:danhbuidcn@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/th%C6%B0%E1%BB%A3ng-b%C3%B9i-bb98a31b6/)
 - FaceBook: [FaceBook Profile](https://www.facebook.com/thuongbuivanhaui)
 
 ## 🎨 Thẩm Mỹ
