@@ -20,8 +20,6 @@ Tôi có kinh nghiệm làm việc với các công nghệ như:
 
 Dưới đây là một số dự án nổi bật mà tôi đã thực hiện và đang phát triển:
 
-- [Daikoku]: Một dự án quản lý nhà thầu Nhật Bản.
-- [Dr.Trust]: Dự án health care với mục đích quản lý sức khỏe của nhân viên.
 - [DevOps]: Tổng hợp các kiến thức cơ bản về devops.
 
 ## 📝 Blog và Tài Liệu
