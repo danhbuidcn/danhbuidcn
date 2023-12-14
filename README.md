@@ -1,8 +1,8 @@
-# Xin chào, Tôi là Thượng
+# Xin chào, Tôi là Danh
 
 ## 👋 Giới Thiệu
 
-Tôi là Thượng, một developer đam mê về lập trình và công nghệ. Mã nguồn mở và giải quyết vấn đề thông qua mã là những thứ mà tôi yêu thích. Tôi tin rằng công nghệ có thể thay đổi thế giới và đó là lý do tại sao tôi đam mê việc đóng góp vào cộng đồng lập trình.
+Tôi là Danh, một developer đam mê về lập trình và công nghệ. Mã nguồn mở và giải quyết vấn đề thông qua mã là những thứ mà tôi yêu thích. Tôi tin rằng công nghệ có thể thay đổi thế giới và đó là lý do tại sao tôi đam mê việc đóng góp vào cộng đồng lập trình.
 
 ## 💻 Công Nghệ và Ngôn Ngữ
 
@@ -41,7 +41,7 @@ Trang GitHub được thiết kế với sự sáng tạo và thẩm mỹ.
 Cảm ơn bạn đã ghé thăm trang GitHub của tôi. Hãy để lại một sao nếu bạn thấy các dự án của tôi hữu ích!
 
 ---
-**© 2023 [Tên Của Bạn]. Mọi quyền được bảo lưu.**
+**© 2023 Danhdcn. Mọi quyền được bảo lưu.**
 
 <!--
 **danhbuidcn/danhbuidcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
