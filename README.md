@@ -8,7 +8,6 @@ Tôi là Danh, một developer đam mê về lập trình và công nghệ. Mã 
 
 Tôi có kinh nghiệm làm việc với các công nghệ như:
 
-- **JavaScript**
 - **Ruby on Rails**
 - **Docker**
 - **Git**
