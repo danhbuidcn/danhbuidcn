@@ -4,8 +4,8 @@ I'm a developer passionate about programming and technology.
 
 ## 🚀 Outstanding project
 
-- [DevOps]: Summary of basic knowledge about devops.
-- [rails_fundamental]: Summary of knowledge about Rails.
+- [DevOps](https://github.com/danhbuidcn/devops): Summary of basic knowledge about devops.
+- [Rails fundamental](https://github.com/danhbuidcn/rails_fundamental): Summary of knowledge about Rails.
 
 ## 📝 Blog
 
@@ -22,7 +22,7 @@ I'm a developer passionate about programming and technology.
 Thank you for visiting my GitHub page. Please leave a star if you find my projects useful!
 
 ---
-**© 2023 Danhdcn.**
+**© 2023 danhdcn.**
 
 <!--
 **danhbuidcn/danhbuidcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
