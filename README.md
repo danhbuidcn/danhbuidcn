@@ -12,7 +12,7 @@ I'm a developer passionate about programming and technology.
 
 - [Viblo](https://viblo.asia/u/BuiVanThuong).
 
-## ✨ You can follow me on 
+## ✨ You can follow me on
 
 - Email: [danhbuidcn@gmail.com](mailto:danhbuidcn@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/th%C6%B0%E1%BB%A3ng-b%C3%B9i-bb98a31b6/)
