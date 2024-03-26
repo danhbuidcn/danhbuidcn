@@ -6,7 +6,9 @@ I'm a developer passionate about programming and technology.
 
 - [DevOps](https://github.com/danhbuidcn/devops): Summary of basic knowledge about devops.
 - [Rails fundamental](https://github.com/danhbuidcn/rails_fundamental): Summary of knowledge about Rails.
+<!--
 - [Laravel + VueJS](https://github.com/danhbuidcn/lara_vue_fundamental): Laravel, Vue 3 & Inertia Full Stack
+-->
 
 ## 📝 Blog
 
