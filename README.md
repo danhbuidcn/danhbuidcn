@@ -7,6 +7,7 @@ I'm a developer passionate about programming and technology.
 - [DevOps](https://github.com/danhbuidcn/devops): Summary of basic knowledge about devops.
 - [Rails fundamental](https://github.com/danhbuidcn/rails_fundamental): Summary of knowledge about Rails.
 - [Python fundamental](https://github.com/danhbuidcn/python_fundamental): Basic about python
+- [dagster_tutorial](https://github.com/danhbuidcn/dagster_tutorial): Dagster is an orchestrator that's designed for developing and maintaining data assets, such as tables, data sets, machine learning models, and reports.
 <!--
 - [Laravel + VueJS](https://github.com/danhbuidcn/lara_vue_fundamental): Laravel, Vue 3 & Inertia Full Stack
 -->
