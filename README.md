@@ -4,6 +4,7 @@ I'm a developer passionate about programming and technology.
 
 ## 🚀 Outstanding project
 
+- [Web fundamentals](https://github.com/danhbuidcn/web_fundamental): A complete guide to web development, covering backend, frontend, database, CI/CD, and more.
 - [DevOps](https://github.com/danhbuidcn/devops): Summary of basic knowledge about devops.
 - [Rails fundamental](https://github.com/danhbuidcn/rails_fundamental): Summary of knowledge about Rails.
 - [Python fundamental](https://github.com/danhbuidcn/python_fundamental): Basic about python
