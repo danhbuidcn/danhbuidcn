@@ -23,6 +23,10 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/th%C6%B0%E1%BB%A3ng-b%C3%B9i-bb98a31b6/)
 - FaceBook: [FaceBook Profile](https://www.facebook.com/thuongbuivanhaui)
 
+### 🎓 Certifications
+
+- ![AWS Certified Solutions Architect - Associate](path_to_image/AWS-Certified-Solutions-Architect-Associate_badge.png) **AWS Certified Solutions Architect - Associate**
+
 ## 🛠️ Skills and Technologies
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
