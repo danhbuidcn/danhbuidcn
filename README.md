@@ -25,7 +25,9 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 
 ## 🎓 Certifications
 
-[![AWS Certified Solutions Architect - Associate](AWS-Certified-Solutions-Architect-Associate_badge.png)](https://www.credly.com/badges/c04d0fc7-07ca-4bb9-9f91-126b652bb038/public_url)
+<a href="https://www.credly.com/badges/c04d0fc7-07ca-4bb9-9f91-126b652bb038/public_url" target="_blank">
+<img src="AWS-Certified-Solutions-Architect-Associate_badge.png" alt="AWS Certified Solutions Architect - Associate" width="150"/>
+</a>
 
 ## 🛠️ Skills and Technologies
 
