@@ -1,6 +1,6 @@
 # 👋 I'm a backend developer.
 
-I'm a developer passionate about programming and technology.
+I'm a developer passionate about programming and technology. I'm a lifelong learner and an inquisitive programmer!
 
 ## 🚀 Outstanding project
 
@@ -22,6 +22,26 @@ I'm a developer passionate about programming and technology.
 - Email: [danhbuidcn@gmail.com](mailto:danhbuidcn@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/th%C6%B0%E1%BB%A3ng-b%C3%B9i-bb98a31b6/)
 - FaceBook: [FaceBook Profile](https://www.facebook.com/thuongbuivanhaui)
+
+## 🛠️ Skills and Technologies
+
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
+![Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhbuidcn&layout=compact)](https://github.com/danhbuidcn)
 
 ## 🙏 Thank you
 
