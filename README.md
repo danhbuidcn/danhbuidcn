@@ -31,19 +31,19 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 
 ## 🛠️ Skills and Technologies
 
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
-![Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-FF9900)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+![Ruby](https://skillicons.dev/icons?i=ruby)
+![Rails](https://skillicons.dev/icons?i=rails)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![SQL](https://skillicons.dev/icons?i=postgres)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![Shell Script](https://skillicons.dev/icons?i=bash)
 
 ## 📊 Most Used Languages
 
