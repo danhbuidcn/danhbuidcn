@@ -2,13 +2,23 @@
 
 I'm a developer passionate about programming and technology. I'm a lifelong learner and an inquisitive programmer!
 
-## 🚀 Outstanding project
+## 🌟 **Highlighted Projects**
 
-- [Web fundamentals](https://github.com/danhbuidcn/web_fundamental): A complete guide to web development, covering backend, frontend, database, CI/CD, and more.
-- [DevOps](https://github.com/danhbuidcn/devops): Summary of basic knowledge about devops.
-- [Rails fundamental](https://github.com/danhbuidcn/rails_fundamental): Summary of knowledge about Rails.
-- [Python fundamental](https://github.com/danhbuidcn/python_fundamental): Basic about python
-- [Dagster tutorial](https://github.com/danhbuidcn/dagster_tutorial): Dagster is an orchestrator that's designed for developing and maintaining data assets, such as tables, data sets, machine learning models, and reports.
+### [Web Fundamentals](https://github.com/danhbuidcn/web_fundamental)  
+📖 *A complete guide to web development, covering backend, frontend, database, CI/CD, and more.*
+
+### [DevOps](https://github.com/danhbuidcn/devops)  
+⚙️ *A comprehensive summary of basic DevOps knowledge and practices.*
+
+### [Rails Fundamental](https://github.com/danhbuidcn/rails_fundamental)  
+📖 *A detailed summary of key concepts and best practices in Ruby on Rails.*
+
+### [Python Fundamental](https://github.com/danhbuidcn/python_fundamental)  
+📖 *A foundational guide to Python programming.*
+
+### [Dagster Tutorial](https://github.com/danhbuidcn/dagster_tutorial)  
+📊 *An in-depth tutorial on using Dagster for orchestrating and maintaining data assets, including tables, datasets, ML models, and reports.*
+
 <!--
 - [Laravel + VueJS](https://github.com/danhbuidcn/lara_vue_fundamental): Laravel, Vue 3 & Inertia Full Stack
 -->
