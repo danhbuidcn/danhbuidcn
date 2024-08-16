@@ -57,7 +57,7 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhbuidcn&layout=compact)](https://github.com/danhbuidcn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhbuidcn)](https://github.com/danhbuidcn)
 
 ## 🙏 Thank you
 
