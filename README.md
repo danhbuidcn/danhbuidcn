@@ -4,12 +4,6 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 
 ## 🌟 **Highlighted Projects**
 
-- [Web Fundamentals](https://github.com/danhbuidcn/web_fundamental)  
-📖 *A complete guide to web development, covering backend, frontend, database, CI/CD, and more.*
-
-- [DevOps](https://github.com/danhbuidcn/devops)  
-⚙️ *A comprehensive summary of basic DevOps knowledge and practices.*
-
 - [Rails Fundamental](https://github.com/danhbuidcn/rails_fundamental)  
 📖 *A detailed summary of key concepts and best practices in Ruby on Rails.*
 
@@ -18,6 +12,12 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 
 - [Python Fundamental](https://github.com/danhbuidcn/python_fundamental)  
 📖 *A foundational guide to Python programming.*
+
+- [Web Fundamentals](https://github.com/danhbuidcn/web_fundamental)  
+📖 *A complete guide to web development, covering backend, frontend, database, CI/CD, and more.*
+
+- [DevOps](https://github.com/danhbuidcn/devops)  
+⚙️ *A comprehensive summary of basic DevOps knowledge and practices.*
 
 - [Dagster Tutorial](https://github.com/danhbuidcn/dagster_tutorial)  
 📊 *An in-depth tutorial on using Dagster for orchestrating and maintaining data assets, including tables, datasets, ML models, and reports.*
