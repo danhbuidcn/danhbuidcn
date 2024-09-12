@@ -13,6 +13,9 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 - [Rails Fundamental](https://github.com/danhbuidcn/rails_fundamental)  
 📖 *A detailed summary of key concepts and best practices in Ruby on Rails.*
 
+- [Go Fundamental](https://github.com/danhbuidcn/go_fundamental)  
+📖 *A concise guide covering essential concepts and best practices for Go programming.*
+
 - [Python Fundamental](https://github.com/danhbuidcn/python_fundamental)  
 📖 *A foundational guide to Python programming.*
 
