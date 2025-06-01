@@ -7,11 +7,11 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 - [Rails Fundamental](https://github.com/danhbuidcn/rails_fundamental)  
 📖 *A detailed summary of key concepts and best practices in Ruby on Rails.*
 
-- [Go Fundamental](https://github.com/danhbuidcn/go_fundamental)  
+- [Go Backend Architecture](https://github.com/danhbuidcn/go_backend_api)  
 📖 *A concise guide covering essential concepts and best practices for Go programming.*
 
-- [Python Fundamental](https://github.com/danhbuidcn/python_fundamental)  
-📖 *A foundational guide to Python programming.*
+- [Simple Bank Backend Service](https://github.com/danhbuidcn/simple_bank)
+📖 *This project is a step-by-step guide to designing, developing, and deploying a backend web service.*
 
 - [Web Fundamentals](https://github.com/danhbuidcn/web_fundamental)  
 📖 *A complete guide to web development, covering backend, frontend, database, CI/CD, and more.*
@@ -21,10 +21,6 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 
 - [Dagster Tutorial](https://github.com/danhbuidcn/dagster_tutorial)  
 📊 *An in-depth tutorial on using Dagster for orchestrating and maintaining data assets, including tables, datasets, ML models, and reports.*
-
-<!--
-- [Laravel + VueJS](https://github.com/danhbuidcn/lara_vue_fundamental): Laravel, Vue 3 & Inertia Full Stack
--->
 
 ## 📝 Blog
 
