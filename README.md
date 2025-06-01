@@ -10,7 +10,7 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 - [Go Backend Architecture](https://github.com/danhbuidcn/go_backend_api)  
 📖 *A concise guide covering essential concepts and best practices for Go programming.*
 
-- [Simple Bank Backend Service](https://github.com/danhbuidcn/simple_bank)
+- [Simple Bank Backend Service](https://github.com/danhbuidcn/simple_bank)   
 📖 *This project is a step-by-step guide to designing, developing, and deploying a backend web service from scratch using Golang.*
 
 - [Web Fundamentals](https://github.com/danhbuidcn/web_fundamental)  
