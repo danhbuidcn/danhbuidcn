@@ -30,7 +30,7 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 
 - Email: [danhbuidcn@gmail.com](mailto:danhbuidcn@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/th%C6%B0%E1%BB%A3ng-b%C3%B9i-bb98a31b6/)
-- FaceBook: [FaceBook Profile](https://www.facebook.com/thuongbuivanhaui)
+- FaceBook: [FaceBook Profile](https://www.facebook.com/danhbuidcn/)
 
 ## 🎓 Certifications
 
