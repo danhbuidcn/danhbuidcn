@@ -19,9 +19,6 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 - [DevOps](https://github.com/danhbuidcn/devops)  
 ⚙️ *A comprehensive summary of basic DevOps knowledge and practices.*
 
-- [Dagster Tutorial](https://github.com/danhbuidcn/dagster_tutorial)  
-📊 *An in-depth tutorial on using Dagster for orchestrating and maintaining data assets, including tables, datasets, ML models, and reports.*
-
 ## 📝 Blog
 
 - [Viblo](https://viblo.asia/u/BuiVanThuong).
