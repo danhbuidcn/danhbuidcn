@@ -50,10 +50,6 @@ I'm a developer passionate about programming and technology. I'm a lifelong lear
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Shell Script](https://skillicons.dev/icons?i=bash)
 
-## 📊 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhbuidcn)](https://github.com/danhbuidcn)
-
 ## 🙏 Thank you
 
 Thank you for visiting my GitHub page. Please leave a star if you find my projects useful!
