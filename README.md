@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Danh
+# Hi, I'm Danh 👋
 
-Software Engineer focused on Backend Engineering, System Design, Cloud & AI/LLM.
+Software Engineer focused on **Backend Engineering, System Design, Cloud & AI/LLM**.
 
-🔧 Building scalable backend systems
-☁️ AWS & Cloud Architecture
-🧩 System Design & Backend Architecture
-🤖 Exploring LLM / AI Engineering
+* 🔧 Building scalable backend systems
+* ☁️ AWS & Cloud Architecture
+* 🧩 System Design & Backend Architecture
+* 🤖 Exploring LLM / AI Engineering
 
 Currently learning, building, and preparing for my next challenge.
 
